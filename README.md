@@ -9,25 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [AnonymousVPN](https://unhittable.org/)
-
-- 🌱 I’m currently learning **About life**
-
-- 👯 Join my AnonymousVPN discord server [AnonymousVPN Discord](https://discord.gg/2zcqf9ENnu)
-
-- 🤝 Join my Com discord server [Com](https://discord.gg/2qVkjYytsQ)
-
-- 👨‍💻 All of my projects are available at [https://github.com/lolcat-y](https://github.com/lolcat-y)
-
-- 📝 Who's a good C# Dev on discord [DivineZ#0001](DivineZ#0001)
-
-- 💬 Ask me about **god**
-
-- 📫 How to reach me **host-api@protonmail.com**
-
-- 📄 What's your discord user [sigh#0001](sigh#0001)
-
-- ⚡ Fun fact **I have a God Complex**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
