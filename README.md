@@ -1,5 +1,5 @@
 [![MasterHead](https://c.tenor.com/Sh7lcSFtLA4AAAAC/the-god-of-highschool-goh.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 😈 I'm sigh</h1>
+<h1 align="center">I'm neo</h1>
 <h3 align="center">A passionate frontend developer from Cuba</h3>
 <img align="right" alt="Coding" width="400" src="https://www.catsaroundtheglobe.com/wp-content/uploads/nyan.gif">
 
